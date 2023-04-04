@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá pessoal 👋
+### Olá, seja bem-vindo!👋
 
-###### Sobre o Pedro
-5 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Mobile, Web, automações
+###### Sobre mim
+ - Estudante de Ciência da Computação, interessado em seguir na carreira de Desenvolvedor 👨‍💻
 
 ### Detalhes
 
