@@ -2,15 +2,26 @@
 
 ### Sobre mim
  - Estudante de Ciência da Computação, interessado em seguir na carreira de Desenvolvedor 👨‍💻
+ - Linguagens/Tecnologias que estou estudando atualmente:
+    - HTML
+    - CSS
+    - JavaScript
+    - React
+    - Java
+    - Spring / Springboot
+    - API REST
+    - Python
+    - MySQL
+    - MongoDB e bancos de dados NoSQL
 
-### Detalhes
+### Minhas atividades no GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdteixeira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projeto
+### Projetos Desenvolvidos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ * Curso EBAC - Clone do TikTok utilizando HTML, CSS e React
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdteixeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
