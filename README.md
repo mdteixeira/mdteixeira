@@ -16,12 +16,12 @@
 
 ### Minhas atividades no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdteixeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdteixeira&show_icons=true&theme=dracula)](https://github.com/mdteixeira)
 
 ### Projetos Desenvolvidos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Atividades-IOS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dracula)](https://github.com/mdteixeira/Clone-do-TikTok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Atividades-IOS&theme=dracula)](https://github.com/mdteixeira/Atividades-IOS)
 
 ### Linguagens utilizadas
 
