@@ -21,7 +21,7 @@
 ### Projetos Desenvolvidos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dracula)](https://github.com/mdteixeira/Clone-do-TikTok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Atividades-IOS&theme=dracula)](https://github.com/mdteixeira/Atividades-IOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=mdteixeira.github.io&theme=dracula)](https://github.com/mdteixeira/mdteixeira.github.io)
 
 ### Linguagens utilizadas
 
