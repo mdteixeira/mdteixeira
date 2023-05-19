@@ -37,10 +37,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dracula)](https://github.com/mdteixeira/Clone-do-TikTok)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=mdteixeira.github.io&theme=dracula)](https://github.com/mdteixeira/mdteixeira.github.io)
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdteixeira&layout=compact&theme=dracula)](#)
-
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mdteixeira15/)
