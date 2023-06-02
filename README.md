@@ -28,14 +28,10 @@
 	</table>
 </div>
 
-### Minhas atividades no GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdteixeira&show_icons=true&theme=dracula)](https://github.com/mdteixeira)
-
 ### Projetos Desenvolvidos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=Clone-do-TikTok&theme=dracula)](https://github.com/mdteixeira/Clone-do-TikTok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=mdteixeira.github.io&theme=dracula)](https://github.com/mdteixeira/mdteixeira.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=mdteixeira.github.io&theme=dracula)](https://mdteixeira.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdteixeira&repo=CalculadoraIMC&theme=dracula)](https://mdteixeira.github.io/CalculadoraIMC)
 
 ### Contatos
 
