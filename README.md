@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=8C52FF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+seja+bem-vindo!;Me+chamo+Matheus+Teixeira;Estudo+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Tenho+18+anos)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=B200F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;I'm+Matheus+Teixeira;I'm+19+years+old)](https://git.io/typing-svg)
+</div>
 
-## 🙋 Sobre mim
+
+## 🙋 About me
 * I'm 19 years old 
 * Currently enrolled in a computer science bachelor degree (semester 2 of 8) 🧑‍🎓
 * Passionate about music and tech 🎵
