@@ -6,7 +6,7 @@
 
 ## 🙋 About me
 * I'm 19 years old 
-* Currently enrolled in a computer science bachelor degree (semester 2 of 8) 🧑‍🎓
+* Currently enrolled in a computer science bachelor degree (semester 3 of 8) 🧑‍🎓
 * Passionate about music and tech 🎵
 
 ## 💻 Tech Stack:
@@ -25,6 +25,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
